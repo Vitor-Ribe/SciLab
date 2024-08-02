@@ -1,0 +1,15 @@
+"Matriz triangular superior:"
+2. -1. 0. 0. 0. 0.
+0. 1.5 -1. 0. 0. 0.
+0. 0. 1.3333333 -1. 0. 0.
+0. 0. 0. 1.25 -1. 0.
+0. 0. 0. 0. 1.2 -1.
+0. 0. 0. 0. 0. 1.1666667
+"Vetor b atualizado:"
+2.
+0.
+7.
+10.25
+12.200000
+13.166667
+"A matriz triangular resultante é tridiagonal."
