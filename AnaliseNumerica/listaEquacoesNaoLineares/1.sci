@@ -14,3 +14,11 @@ function x = no_inverso(C)
         iter = iter + 1;
     end
 endfunction
+
+exec('no_inverso.sci', -1);
+
+C = 7;  
+
+x = no_inverso(C);
+
+disp("O inverso de " + string(C) + " é aproximadamente " + string(x));
